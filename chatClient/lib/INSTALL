@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=com.google.code -DartifactId=juds -Dversion=0.94-universal -Dpackaging=jar -Dfile=/path/to/file
